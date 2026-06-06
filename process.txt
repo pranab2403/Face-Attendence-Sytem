@@ -1,0 +1,28 @@
+FaceAttendanceSystem/
+│
+├── main.py
+├── login.py
+├── register.py
+├── attendance.py
+├── database.py
+├── recognizer.py
+│
+├── database/
+│   ├── students.db
+│   └── attendance.xlsx
+│
+├── dataset/
+│   ├── Pranab_Naskar/
+│   │      1.jpg
+│   │      2.jpg
+│   │      3.jpg
+│   │
+│   ├── Rahul_Das/
+│   │      1.jpg
+│   │      2.jpg
+│
+├── images/
+│   ├── logo.png
+│   └── background.png
+│
+└── requirements.txt
